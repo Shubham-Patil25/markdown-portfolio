@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+A list of my favaorite things..
+- 🐱
+- 🐶
+- 💻
+
+In order these are my favarite ice-cream..
+- Chocalate 
+- Vanilla
